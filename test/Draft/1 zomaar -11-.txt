@@ -1,1 +1,3 @@
 Testen van *scrivener* sync voor github
+
+test om te zien of het ook vanuit github naar scrivener komt
